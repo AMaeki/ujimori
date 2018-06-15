@@ -1,4 +1,3 @@
 あああ
 TEST
 AAA
-GRADLE2
