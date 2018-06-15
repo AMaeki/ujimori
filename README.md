@@ -1,3 +1,4 @@
 あああ
 TEST
 AAA
+gradle
